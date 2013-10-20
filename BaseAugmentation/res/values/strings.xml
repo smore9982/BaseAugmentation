@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Base Augment</string>
+    <string name="activity_label_splashscreen">Base Augment</string>
+    <string name="action_settings">Settings</string>
+    
+        <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+</resources>
