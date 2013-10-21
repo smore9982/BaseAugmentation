@@ -37,6 +37,10 @@
             </intent-filter>
         </activity>
         
+        <activity
+            android:name="com.android.baseaugmentation.activity.AugmentActivity"
+            android:label="@string/activity_label_augment"
+        />
         
     </application>
 

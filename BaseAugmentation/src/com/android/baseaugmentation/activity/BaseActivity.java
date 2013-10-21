@@ -101,7 +101,7 @@ public abstract class BaseActivity extends FragmentActivity {
 	}
 	
 	public String[] getNavigationList(){
-		String[] titles = {"Home","Location","Sensor Activity","Graphics","WiFi Direct","Sliding Pane","Animation","Camera","Maps","Draggable View","SQL Lite","Video Activity","AugmentActivity"};
+		String[] titles = {"AugmentActivity"};
 		return titles;
 	}
 	

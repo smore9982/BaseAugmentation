@@ -19,9 +19,9 @@ public class SplashScreenActivity extends Activity {
 	};
 	
 	private void loadNextScreen(){
-		Intent nextScreen = new Intent(this,BaseActivity.class);
-		//this.startActivity(nextScreen);
-		//this.finish();
+		Intent nextScreen = new Intent(this,AugmentActivity.class);
+		this.startActivity(nextScreen);
+		this.finish();
 	}
 
 	@Override
